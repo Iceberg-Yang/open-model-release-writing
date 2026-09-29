@@ -1,0 +1,4 @@
+interface:
+  display_name: "开源模型发布文章"
+  short_description: "研究、撰写并审校来源可追溯的开源模型公众号发布文章"
+  default_prompt: "Use $open-model-release-writing to research, draft, and audit an objective Chinese release article for an open-weight model."
